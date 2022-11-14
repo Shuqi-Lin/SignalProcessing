@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#ignoring Mary Lofton's RProject files :-)
+.DS_Store
+SignalProcessing.Rproj
